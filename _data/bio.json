@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Software Engineering",
+      "name": "Database Management",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
       "name": "Big Data",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Database Management",
       "keywords": [
       ]
     }
