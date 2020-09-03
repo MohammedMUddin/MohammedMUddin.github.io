@@ -50,11 +50,11 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "SQL",
+        "Python",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Assembly"
       ]
     },
     {
@@ -64,20 +64,29 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Cleveland State University, Cleveland, Ohio",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "01-15-2017",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.25",
+      "courses": [ 
+        "Technical Communication",
+        "Software Engineering",
+        "Data Structures & Algorithms",
+        "Introduction to Algorithms",
+        "Data Base Concepts",
+        "Operating Systems",
+        "Systems Programming",
+        "Language Processors",
+        "Computer Architecture",
+        "Comp. Programming Languages"
       ]
     }
   ],
