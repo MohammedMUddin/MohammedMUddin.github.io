@@ -92,12 +92,15 @@
   ],
   "work": [
     {
-      "company": "Is&t Department of CSU",
+      "company": "IS&T Department of CSU",
       "position": "Student Lab Assistant",
       "website": "https://www.csuohio.edu/ist/ist",
       "startDate": "2019-01-15",
       "endDate": "Present",
-      "summary": "Assisted students with Windows OS related problems",
+      "highlights": [
+        "Assisted students with Windows OS related problems",
+        "Answer phone to the IS&T Help Desk"
+      ]
     },
     {
       "company": "UH Information Technology Services",
