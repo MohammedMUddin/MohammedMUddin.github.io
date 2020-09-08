@@ -92,9 +92,9 @@
       ]
     }
   ],
-  "work": [
+  "projects": [
     {
-      "company": "UH Manoa Board of Publications",
+      "title": "Restaurant Ordering System",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
