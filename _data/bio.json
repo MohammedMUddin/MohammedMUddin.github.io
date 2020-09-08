@@ -92,16 +92,12 @@
   ],
   "work": [
     {
-      "company": "IST DEPARTMENT",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Is&t Department of CSU",
+      "position": "Student Lab Assistant",
+      "website": "https://www.csuohio.edu/ist/ist",
+      "startDate": "2019-01-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Assisted students with Windows OS related problems",
     },
     {
       "company": "UH Information Technology Services",
