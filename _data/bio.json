@@ -2,7 +2,11 @@
   "basics": {
     "name": "Mohammed Mesbah Uddin",
     "label": "Student",
+<<<<<<< HEAD
     "picture": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Fcsuohio-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!u5WfLyw6d0qmBCU8wPw4smg2FLZJERxJpnZCo145kypTLkAlqQ3DT7E9sCS6qlWh%2Fitems%2F01Q2ANT4N6TO73IO6JDJG3MB2AGKY7OST6%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvY3N1b2hpby1teS5zaGFyZXBvaW50LmNvbUBkN2YzZTc5YS05NDNkLTRhY2UtYWVhYi0yMDkwMzA4MDc1MDgiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNTk5NTM0MDAwIiwiZXhwIjoiMTU5OTU1NTYwMCIsImVuZHBvaW50dXJsIjoiR2VMS0hqdFBHWWJwWnVaa0FUamYvQnZYU3BnYTB3aEdMc1NtQmg2QWdsST0iLCJlbmRwb2ludHVybExlbmd0aCI6IjExNyIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6Ik1tWTVaamsxWW1JdE0yRXlZeTAwWVRjM0xXRTJNRFF0TWpVelkyTXdabU16T0dJeSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHwyNjk4MDg2QHZpa2VzLmNzdW9oaW8uZWR1IiwibmlpIjoibWljcm9zb2Z0LnNoYXJlcG9pbnQiLCJpc3VzZXIiOiJ0cnVlIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MTAwMzNmZmY5YjAxNzU4MUBsaXZlLmNvbSIsInR0IjoiMCIsInVzZVBlcnNpc3RlbnRDb29raWUiOiIyIn0.ZEhpSGRVT0xJSTJKSWxwQVBkL0NHaTFNVTNQZzJuQzhHcWdFalBaWnJNWT0&encodeFailures=1&srcWidth=&srcHeight=&width=1920&height=792&action=Access",
+=======
+    "picture": "https://MohammedMUddin.github.io/images/Flexo.png",
+>>>>>>> parent of b9ef847... Update bio.json
     "email": "m.uddin16@vikes.csuohio.edu",
     "phone": "216-571-5837",
     "website": "https://mohammedmuddin.github.io",
