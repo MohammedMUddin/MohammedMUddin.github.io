@@ -73,7 +73,7 @@
       "institution": "Cleveland State University, Cleveland, Ohio",
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "01-15-2017",
+      "startDate": "2017-15-01",
       "endDate": "Present",
       "gpa": "3.25",
       "courses": [ 
@@ -103,15 +103,25 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Wolstein Center",
+      "position": "Event Staff",
+      "website": "https://www.wolsteincenter.com/",
+      "startDate": "2017-07-12",
+      "endDate": "2019-01-15",
+      "highlights": [
+        "Worked as event staff for Cleveland State"
+      ]
+    },
+    {
+      "company": "CSU Call Center",
+      "position": "Call Center Representative",
+      "website": "https://www.supportcsu.org/how-to-give/student-calling-center",
+      "startDate": "2018-01-15",
+      "endDate": "2018-04-23",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked here as a Call Center Representative for Cleveland State",
+        "Called Cleveland State alumni for donation towards the University"
       ]
     }
   ],
