@@ -15,6 +15,9 @@ summary: My team developed a full Restaurant Ordering System in Python
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/mainmenu.png">
+  <img class="ui image" src="../images/rest2.png">
+  <img class="ui image" src="../images/rest3.png">
+  <img class="ui image" src="../images/rest4.png">
 </div>
 
 Me and my group created a Restaurant Ordering System in Python using the Tkinterlibrary for my Software Engineering course. We used MySQL for our backend database storage. I was in charge of the UI of the program and was responsible for making the Front End connect with the Logic of the program and also use the Database to store the proper Orders.
