@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mainmenu.png
+image: /images/rest2.png
 title: Restaurant Ordering System
 permalink:
 # All dates must be YYYY-MM-DD format!
@@ -62,6 +62,6 @@ Here is some code that illustrates how we handled Front End GUI code:
 
         self.show_frame("StartPage")
 ```
-All of the code can be found here: [Github Repo] (https://github.com/KirkW0610/Group11).
+All of the code can be found here: [Github Repo](https://github.com/KirkW0610/Group11).
 
 
