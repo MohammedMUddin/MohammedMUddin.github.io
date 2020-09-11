@@ -1,44 +1,64 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: 
+title: Restaurant Ordering System
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-05-15
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Tkinter
+  - SQL
+summary: My team developed a full Restaurant Ordering System in Python
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/mainmenu.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Me and my group created a Restaurant Ordering System in Python using the Tkinterlibrary for my Software Engineering course. We used MySQL for our backend database storage. I was in charge of the UI of the program and was responsible for making the Front End connect with the Logic of the program and also use the Database to store the proper Orders.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Here is some code that illustrates how we handled Front End GUI code:
 
-Here is some code that illustrates how we read values from the line sensors:
+```python
+ def __init__(self, controller):
+        super().__init__()
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+        self.title_font = tkfont.Font(family='Helvetica', size=18, weight="bold", slant="italic")
+        self.button_font = tkfont.Font(family='Helvetica', size=12, weight="bold")
+
+        self.title("Restaurant App")
+
+        self.controller = controller
+
+        self.value_var = tk.StringVar()
+
+        container = tk.Frame(self)
+        container.pack(side="top", fill="both", expand=True)
+        container.grid_rowconfigure(0, weight=1)
+        container.grid_columnconfigure(0, weight=1)
+
+        self.frames = {"StartPage": StartPage(parent=container, controller=self),
+                       "Order": Order(parent=container, controller=self),
+                       "inventory_view": inventory_view(parent=container, controller=self),
+                       "Overview": Overview(parent=container, controller=self),
+                       "Checkout": Checkout(parent=container, controller=self),
+                       "Create_order": Create_order(parent=container, controller=self),
+                       "t_Total": t_Total(parent=container),
+                       "New": New(parent=container)}
+
+        self.frames["StartPage"].grid(row=0, column=0, sticky="nsew")
+        self.frames["Order"].grid(row=0, column=0, sticky="nsew")
+        self.frames["inventory_view"].grid(row=0, column=0, sticky="nsew")
+        self.frames["Overview"].grid(row=0, column=0, sticky="nsew")
+        self.frames["Checkout"].grid(row=0, column=0, sticky="nsew")
+        self.frames["Create_order"].grid(row=0, column=0, sticky="nsew")
+        self.frames["t_Total"].grid(row=0, column=0, sticky="nsew")
+        self.frames["New"].grid(row=0, column=0, sticky="nsew")
+
+        self.show_frame("StartPage")
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
