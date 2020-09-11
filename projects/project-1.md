@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mainmenu.png
 title: Restaurant Ordering System
-permalink: projects/restaurantapp
+permalink:
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:
