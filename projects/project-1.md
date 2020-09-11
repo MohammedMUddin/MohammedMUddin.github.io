@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/rest2.png
+image: images/rest2.png
 title: Restaurant Ordering System
 permalink:
 # All dates must be YYYY-MM-DD format!
