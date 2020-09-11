@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: 
+image: images/mainmenu.png
 title: Restaurant Ordering System
-permalink: 
+permalink: projects/restaurantapp
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:
@@ -62,6 +62,6 @@ Here is some code that illustrates how we handled Front End GUI code:
 
         self.show_frame("StartPage")
 ```
-
+All of the code can be found here: [Github Repo] (https://github.com/KirkW0610/Group11).
 
 
