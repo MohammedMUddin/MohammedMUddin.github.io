@@ -91,18 +91,32 @@
     }
   ],
   "work": [
-    {
+    {      
+      "company": "Engineering Peer Tutor",
+      "position": "Tutor with Washkewickz College Of Engineering",
+      "website": "hhttps://engineering.csuohio.edu/",
+      "startDate": "2020-10-1",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Provide academic assistance in CIS 151 (Invitation to computing) and CIS 260 (Intro to Programming)",
+        "Integrate effective study and learning strategies",
+        "Facilitates learning to assist students to become independent learners"
+      ]
+
+    },
+    {     
       "company": "IS&T Department of CSU",
       "position": "Student Lab Assistant",
       "website": "https://www.csuohio.edu/ist/ist",
       "startDate": "2019-01-15",
-      "endDate": "Present",
+      "endDate": "2020-9-15",
       "highlights": [
         "Assisted students with Windows OS related problems",
         "Answer phone to the IS&T Help Desk"
       ]
     },
-    {
+    {      
       "company": "Wolstein Center",
       "position": "Event Staff",
       "website": "https://www.wolsteincenter.com/",
@@ -110,18 +124,6 @@
       "endDate": "2019-01-15",
       "highlights": [
         "Worked as event staff for Cleveland State"
-      ]
-    },
-    {
-      "company": "CSU Call Center",
-      "position": "Call Center Representative",
-      "website": "https://www.supportcsu.org/how-to-give/student-calling-center",
-      "startDate": "2018-01-15",
-      "endDate": "2018-04-23",
-      "summary": "",
-      "highlights": [
-        "Worked here as a Call Center Representative for Cleveland State",
-        "Called Cleveland State alumni for donation towards the University"
       ]
     }
   ],
