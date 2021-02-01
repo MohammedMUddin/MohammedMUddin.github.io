@@ -14,9 +14,9 @@ labels:
 summary: I built a Machine Learning web app in Flask for my friend who wanted to deploy their Machine Learning model online.
 ---
 
-<div>
-  <img src="../images/MLProj1.png">
-  <img src="../images/MLProj2.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/MLProj1.png">
+  <img class="ui image" src="../images/MLProj2.png">
 </div>
 
 The link to the website: [skindiseasedetector](https://skindiseasedetector.herokuapp.com/).
@@ -27,7 +27,7 @@ A UI is even more important for models that deal with image processing, as testi
 My friend, who is studying in the field of Machine Learning, came to me to help him deploy his Machine Learning model on the web. 
 It was an interesting case as I had to figure out how to connect his model with Flask and then represent the result on the front end.
 
-Technical Details
+<h5>Technical Details</h5>
 I had to implement multiple Flask functions to have form submission, in our case only image would suffice and that was handled with WTForms. 
 After the image submission was successful, the picture was to be stored in the local directory. A ML function would then take the image from the directory
 and run the model on that. Finally, the prediction would be returned and grabbed a final function that would display the results on the front page. 
@@ -37,7 +37,7 @@ would protect the app from multiple uploads on one session which is not somethin
 I also had a diffcult time trying to deploy this app on Heroku as they did not like the tensorflow package size and therefore slowed 
 down our app for initial boot.
 
-Conclusion
+<h5>Conclusion</h5>
 This was my first attempt at Flask web app. I can definitely implement better process handling, such as implementing Celery from python. 
 Also need to find a better platform for deploying ML Web Apps as the slug size of heroku limits deployement of Image Processing Models.
 
