@@ -15,8 +15,8 @@ summary: I built a Machine Learning web app in Flask for my friend who wanted to
 ---
 
 <div>
-  <img src="../images/MLProj1.jpg">
-  <img src="../images/MLProj2.jpg">
+  <img src="../images/MLProj1.png">
+  <img src="../images/MLProj2.png">
 </div>
 
 Description:
