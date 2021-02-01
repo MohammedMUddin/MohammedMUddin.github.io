@@ -19,8 +19,9 @@ summary: I built a Machine Learning web app in Flask for my friend who wanted to
   <img src="../images/MLProj2.png">
 </div>
 
+The link to the website: [skindiseasedetector](https://skindiseasedetector.herokuapp.com/).
 
-Description
+<h5>Description</h5>
 No Machine Learning model is truly complete without a interface that lets regular people interact with the model.
 A UI is even more important for models that deal with image processing, as testing it against real world picture would put it to the real test.
 My friend, who is studying in the field of Machine Learning, came to me to help him deploy his Machine Learning model on the web. 
