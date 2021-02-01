@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MLProj2.jpg
+image: images/MLProj2.png
 title: Skin Disease Detection Web App
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -15,8 +15,8 @@ summary: I built a Machine Learning web app in Flask for my friend who wanted to
 ---
 
 <div>
-  <img src="../images/Sys Arc 11.22.png">
-  <img src="../images/opnn sys 11.21.png">
+  <img src="../images/MLProj1.png">
+  <img src="../images/MLProj2.png">
 </div>
 
 
