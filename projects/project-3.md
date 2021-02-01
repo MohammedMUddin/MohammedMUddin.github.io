@@ -37,4 +37,5 @@ I also had a diffcult time trying to deploy this app on Heroku as they did not l
 down our app for initial boot.
 
 Conclusion: 
-This was my first attempt at Flask web app. 
+This was my first attempt at Flask web app. I can definitely implement better process handling, such as implementing Celery from python. 
+Also need to find a better platform for deploying ML Web Apps as the slug size of heroku limits deployement of Image Processing Models.
