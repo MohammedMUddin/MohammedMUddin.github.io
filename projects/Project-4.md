@@ -19,7 +19,7 @@ summary: React Web App (SPA) deployed on Netlify
   <img src="../images/ReactDog.png">
 </div>
 
-The website link: [allaboutpets] (https://all-about-pets.netlify.app/)
+The website link: [allaboutpets](https://all-about-pets.netlify.app/)
 
 <h5>Description</h5>
 <h5>Technical Details</h5>
