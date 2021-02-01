@@ -14,9 +14,9 @@ labels:
 summary: I built a Machine Learning web app in Flask for my friend who wanted to deploy their Machine Learning model online.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/MLProj1.jpg">
-  <img class="ui image" src="../images/MLProj2.jpg">
+<div>
+  <img src="../images/MLProj1.png">
+  <img src="../images/MLProj2.png">
 </div>
 
 
