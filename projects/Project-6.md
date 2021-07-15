@@ -1,33 +1,32 @@
 ---
 layout: project
 type: project
-image: images/ReactCat.png
-title: React Web App
+image: images/RN1.png
+title: React Native Port
 permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-07
+date: 2020-04-25
 labels:
   - ReactJS
-  - Netlify
-  - Material UI
-  - HTML & CSS
-summary: React Web App (SPA) deployed on Netlify 
+  - ReactNative
+  - React Hooks
+  - Redux
+  - Android
+  - Java
+summary: React Native Port from Java Android
 ---
 
 <div class="ui small rounded images">
-  <img src="../images/ReactCat.png">
-  <img src="../images/ReactDog.png">
+  <img src="../images/RN1.png">
+  <img src="../images/RN2.png">
+  <img src="../images/RN3.png">
 </div>
 
 The website link: [allaboutpets](https://all-about-pets.netlify.app/)
 
 <h5>Description</h5>
-Built a React Web App using the most important fundatmentals in react such as
-Reusable Components, Conditional Rendering, States, Router and Hooks. 
-<h5>Technical Details</h5>
-Instead of CSS I implememented Material UI which is a React-CSS framework 
-that utilizes the concepts of components
+This was a term project to port the existing class over from Android. The goal is to provide an end-to-end guide from installation to homework explanations for the course done completely in React Native while using an Android emulator.
+Right now you might be wondering, what is React Native and why would I want to learn it? That's fair enough, the answer is React Native is a framework that uses React, one the current most popular JavaScript libraries. It's different from regular React because it targets the two most popular mobile operating systems rather than the browser. By using React Native, you will be able to have one code base that is capable of compiling and running natively both on iOS and Android! Learning React Native not only teaches you about mobile programming but also shares many similarities to web programming as it is done in JavaScript.
 <h5>Conclusion</h5>
-This personal project was to soldify my understanding of Web Development and Client Side
-Rendered Web pages.
+This academic project helped me solidify more complex topics in React such as React Router, React Redux and React Hooks.
 
