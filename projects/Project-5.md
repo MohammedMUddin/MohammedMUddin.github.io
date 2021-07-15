@@ -21,6 +21,8 @@ summary: Stock Tracking App using SAFE stack
   <img src="../images/safe2.png">
   <img src="../images/safe3.png">
   <img src="../images/safe4.png">
+  <img src="../images/safe5.png">
+  <img src="../images/safe6.png">
 </div>
 
 The website link: [Kumetrix](https://kumetrix.azurewebsites.net/)
