@@ -24,6 +24,7 @@ summary: Stock Tracking App using SAFE stack
 </div>
 
 The website link: [Kumetrix](https://kumetrix.azurewebsites.net/)
+
 Github link: [Github](https://github.com/bkelley616/KUMetriX-Public) 
 
 <h5>Description</h5>
