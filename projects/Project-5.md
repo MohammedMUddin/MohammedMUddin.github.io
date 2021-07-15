@@ -1,34 +1,39 @@
 ---
 layout: project
 type: project
-image: images/ReactCat.png
-title: React Web App
+image: images/safe1.png
+title: Stock Tracking App
 permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-07
+date: 2021-05-08
 labels:
-  - ReactJS
-  - Netlify
-  - Material UI
-  - HTML & CSS
-summary: React Web App (SPA) deployed on Netlify 
+  - Saturn
+  - Microsoft Azure
+  - Fable
+  - Elmish
+  - F#
+  - .NET
+summary: Stock Tracking App using SAFE stack  
 ---
 
 <div class="ui small rounded images">
-  <img src="../images/ReactCat.png">
-  <img src="../images/ReactDog.png">
+  <img src="../images/safe1.png">
+  <img src="../images/safe2.png">
+  <img src="../images/safe3.png">
+  <img src="../images/safe4.png">
 </div>
 
-The website link: [allaboutpets](https://all-about-pets.netlify.app/)
+The website link: [Kumetrix](https://kumetrix.azurewebsites.net/)
+Github link: [Github](https://github.com/bkelley616/KUMetriX-Public) 
 
 <h5>Description</h5>
-Built a React Web App using the most important fundatmentals in react such as
-Reusable Components, Conditional Rendering, States, Router and Hooks. 
-<h5>Technical Details</h5>
-Instead of CSS I implememented Material UI which is a React-CSS framework 
-that utilizes the concepts of components
+The SAFE stack project that I worked on has the client application (Front-End)
+build using the Fable compiler along with the Elmish state management
+system to provide a performant UI that uses the MVU pattern of state
+management, and the backend was built with Saturn which is an F# library
+that allows routing and hosting applications that are built on top of ASP .NET
+Core.
 <h5>Conclusion</h5>
-This personal project was to soldify my understanding of Web Development and Client Side
-Rendered Web pages.
+This project was built by Me and two of my teammates for our CIS 408 Internet Programming course.
 
 
