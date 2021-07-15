@@ -22,7 +22,7 @@ summary: React Native Port from Java Android
   <img src="../images/RN3.png">
 </div>
 
-The website link: [allaboutpets](https://all-about-pets.netlify.app/)
+Github link: Unfortunately for this project our professor Dr. Wenbing Zhao wanted to keep the github repo private however he can be contacted for verification.
 
 <h5>Description</h5>
 This was a term project to port the existing class over from Android. The goal is to provide an end-to-end guide from installation to homework explanations for the course done completely in React Native while using an Android emulator.
